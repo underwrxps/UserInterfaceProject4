@@ -98,6 +98,12 @@
     border-color: black;
     border-radius: 15px;
   }
+
+  .mainContainer button {
+    border-style: solid;
+    border-color: black;
+    border-radius: 8px;
+  }
   
   .inputContainer {
     width: 280;
